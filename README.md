@@ -1,5 +1,4 @@
 # Knowledge-base
-# Mini Knowledge Base
 
 ##  Présentation
 Projet collaboratif visant à documenter les bonnes pratiques Git, GitHub et méthodes Agiles.
